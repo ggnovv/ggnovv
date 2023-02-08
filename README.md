@@ -26,4 +26,4 @@
       "bundleID": "com.zhiliaoapp.musically",
 		"appstore": "com.zhiliaoapp.musically",
 		"contact": {
-			"web": "https://t.me/tiktokmodgg"}
+			"web": "https://t.me/tiktokmodgg" }}
