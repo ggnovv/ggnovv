@@ -27,4 +27,3 @@
 		"appstore": "com.zhiliaoapp.musically",
 		"contact": {
 			"web": "https://t.me/tiktokmodgg"}
--GitHub raw url ActionCloud/github-raw-url@v1
