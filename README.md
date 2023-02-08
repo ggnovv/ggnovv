@@ -27,4 +27,4 @@
 		"appstore": "com.zhiliaoapp.musically",
 		"contact": {
 			"web": "https://t.me/tiktokmodgg"}
-- имя: GitHub raw url использует: ActionCloud/github-raw-url@v1
+-GitHub raw url ActionCloud/github-raw-url@v1
